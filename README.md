@@ -17,7 +17,7 @@ This utility doesn't do anything malicious and by my investigation neither do an
 Usage should be self-explanatory: pass the path to `.agilekeychain` as the first argument.
 
 ```
-$ go install github.com/tylerchr/pwncheck/cmd/1pwn
+$ go install github.com/tylerchr/1pwn
 $ 1pwn
 USAGE: 1pwn [-verbose] <path/to.agilekeychain>
 ```
